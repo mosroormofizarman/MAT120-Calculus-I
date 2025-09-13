@@ -170,6 +170,7 @@ The instructor reserves the right to make changes to the syllabus if necessary.
 
 This repository and its contents are licensed under a  
 [Creative Commons Attribution‑NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
 © 2025 Mosroor Mofiz Arman. Commercial use requires prior written permission.  
 
 For commercial use requests, please contact me via my [GitHub profile](https://github.com/mosroormofizarman).
